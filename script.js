@@ -1,5 +1,5 @@
 //your JS code here. If required.
-// let images = [
+let images = [
 	'https://picsum.photos/id/237/200/300',
 	'https://picsum.photos/id/238/200/300',
 	'https://picsum.photos/id/239/200/300'
@@ -25,3 +25,8 @@ document.getElementById('download-images-button').addEventListener('click',(even
 		console.log(error);
 	});
 });
+ let images = [
+	'https://picsum.photos/id/237/200/300',
+	'https://picsum.photos/id/238/200/300',
+	'https://picsum.photos/id/239/200/300'
+]; 
